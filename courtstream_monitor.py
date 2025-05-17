@@ -13,7 +13,7 @@ END_MINUTE = 0
 # Weekdays: 0=Monday, 1=Tuesday, ..., 6=Sunday
 DAYS_TO_RUN = [0, 1, 2, 3, 4]  # Monday to Friday
 
-LOG_FILE = "livestream_checker.log"
+LOG_FILE = "streams.log"
 # --- End Configuration ---
 
 # --- Logging Setup ---
